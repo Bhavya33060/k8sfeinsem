@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:tomcat": "vite build --base=/ecommerce/",  
     "lint": "eslint .",
     "preview": "vite preview"
   },
